@@ -1,5 +1,5 @@
 # WeatherApp
-A simple weather app that asks for your location and give you the temperature in that location.
+A simple weather app that asks for your location and gives you the temperature in that location.
 <br>
 NOTE: Don't forget to download the <i>skycons</i> repository, extract the zip and add the <i>skycons.js</i> file to your project directory, else the weather icons won't work.
 
